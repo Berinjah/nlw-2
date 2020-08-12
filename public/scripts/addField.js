@@ -1,5 +1,7 @@
 document.querySelector("#add-time").addEventListener("click", cloneField)
 
+//função que cria novos campos para adicionar novos horários para as aulas
+
 function cloneField(){
     const newFieldContainer = document.querySelector(".schedule-item").cloneNode(true)
     

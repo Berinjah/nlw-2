@@ -26,6 +26,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 html, body{
     height: 100vh; /* vh == viewport height, é relativo ao tamanho da viewport, ou seja, 100vh == 100% do tamanho da viewport. Nesse caso o vh esta dividindo tudo em 100 pedaços permitir a o alinhamento do conteúdo ao centro e sendo aplicado no html e body ao mesmo tempo pois é uma boa pratica pois ocupa toda a visão do documento */
 }

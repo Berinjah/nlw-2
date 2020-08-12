@@ -2,9 +2,11 @@
   width: 100vw;
   height: 100vh;
 }
+
 #page-give-classes .page-header .header-content{
   margin-bottom: 6.4rem;
 }
+
 #page-give-classes main{
   background: var(--color-box-base);
   width: 100%;
